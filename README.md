@@ -1,1 +1,1 @@
-# scientific-python-note
+# scientific-python-notes
