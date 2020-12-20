@@ -1,9 +1,9 @@
 {
-  "name": "scientific-python-note",
+  "name": "scientific-python-notes",
   "version": "1.0.0",
   "description": "Python 科學運算筆記",
   "main": "index.js",
-  "repository": "git@github.com:aquastripe/scientific-python-note.git",
+  "repository": "git@github.com:aquastripe/scientific-python-notes.git",
   "author": "Hao-Ting Li <maniac@csie.io>",
   "license": "MIT",
   "devDependencies": {

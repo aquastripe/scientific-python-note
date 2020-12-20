@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Python 科學運算筆記',
-    description: 'Scientific Python Note',
+    description: 'Scientific Python Notes',
     base: '/scientific-python-notes/',
     repo: 'https://github.com/aquastripe/scientific-python-notes/',
     head: [
